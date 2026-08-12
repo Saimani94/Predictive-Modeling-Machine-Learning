@@ -81,7 +81,7 @@ Generated evaluation plots are saved in `reports/` when the script is run.
 
 For interactive exploration, open `notebooks/predictive_modeling.ipynb` in Jupyter Notebook or VS Code.
 
-## Expected Learning Outcomes
+## Learning Outcomes
 
 This project provides hands-on practice with supervised learning, classification, train/test evaluation, model comparison, performance visualization, and interpreting predictive models.
 
